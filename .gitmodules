@@ -4,3 +4,6 @@
 [submodule "jangular-lineman-ade"]
 	path = jangular-lineman-ade
 	url = https://github.com/dcunited001/jangular-lineman-ade
+[submodule "lineman-angular-ui-bootstrap"]
+	path = lineman-angular-ui-bootstrap
+	url = https://github.com/dcunited001/lineman-angular-ui-bootstrap
