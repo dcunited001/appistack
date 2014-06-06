@@ -1,0 +1,6 @@
+[submodule "rails-stack"]
+	path = rails-stack
+	url = https://github.com/dcunited001/rails-stack
+[submodule "jangular-lineman-ade"]
+	path = jangular-lineman-ade
+	url = https://github.com/dcunited001/jangular-lineman-ade
