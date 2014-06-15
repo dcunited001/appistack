@@ -7,3 +7,6 @@
 [submodule "lineman-angular-ui-bootstrap"]
 	path = lineman-angular-ui-bootstrap
 	url = https://github.com/dcunited001/lineman-angular-ui-bootstrap
+[submodule "rails41"]
+	path = rails41
+	url = https://github.com/dcunited001/rails41
