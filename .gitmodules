@@ -10,3 +10,6 @@
 [submodule "rails41"]
 	path = rails41
 	url = https://github.com/dcunited001/rails41
+[submodule "lineman-polymer-blog"]
+	path = lineman-polymer-blog
+	url = git@github.com:dcunited001/lineman-polymer-blog
